@@ -1,6 +1,6 @@
 # Hotel Booking Database
 
-Design and implementation of a hotel booking database in MySQL
+Design and implementation of a hotel booking database in MySQL.
 
 <img width="501" alt="Screenshot 2021-07-17 at 19 20 59" src="https://user-images.githubusercontent.com/43847681/126043378-da8efc6d-e4ba-42b6-bde9-c67ac397fc99.png">
 
