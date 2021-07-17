@@ -1,4 +1,4 @@
-# HotelBookingDatabase
+# Hotel Booking Database
 
 Design and implementation of a hotel booking database in MySQL
 
